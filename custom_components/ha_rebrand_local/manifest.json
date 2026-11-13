@@ -1,0 +1,18 @@
+{
+  "domain": "ha_rebrand_local",
+  "name": "Mega Connect Rebrand",
+  "codeowners": [
+    "@sakisdrakidis-cmd"
+  ],
+  "config_flow": true,
+  "dependencies": [
+    "frontend"
+  ],
+  "documentation": "https://github.com/sakisdrakidis-cmd/megaconnect-rebrand",
+  "integration_type": "service",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/sakisdrakidis-cmd/megaconnect-rebrand/issues",
+  "requirements": [],
+  "single_config_entry": true,
+  "version": "0.1.12.1"
+}
